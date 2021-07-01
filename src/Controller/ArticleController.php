@@ -13,6 +13,6 @@ class ArticleController
 
  public function articles ()
  {
-     return new Response ('listes articles'); die;
+     return new Response ('listes articles');
 }
 }

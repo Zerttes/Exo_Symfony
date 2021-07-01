@@ -25,7 +25,7 @@ class PageController
      */
     public function mentionsLegales ()
     {
-        return new Response ('mentions_légales'); die;
+        return new Response ('mentions_légales');
 
     }
 
